@@ -1,21 +1,22 @@
 # LeetCode Java Solutions 🚀
 
-Welcome to my LeetCode solutions repository!
+Welcome to my LeetCode Java Solutions repository!
 
-This repository contains my Java solutions to LeetCode problems. I am solving problems consistently to improve my Data Structures & Algorithms skills and prepare for software engineering placements.
+This repository contains my accepted Java solutions to LeetCode problems. I solve problems consistently to improve my Data Structures & Algorithms skills, strengthen problem-solving abilities, and prepare for software engineering placements.
 
-## 📌 Language
+## 👨‍💻 Language
 
 - Java
 
-## 🎯 Goal
+## 🎯 Goals
 
-- Solve 100+ LeetCode problems
-- Strengthen problem-solving skills
+- Solve 200+ LeetCode problems
+- Improve DSA and problem-solving skills
 - Prepare for coding interviews and placements
-- Learn optimized approaches and clean coding practices
+- Write clean and optimized Java solutions
+- Maintain consistency through daily practice
 
-## 📂 Repository Structure
+## 📁 Repository Structure
 
 ```
 LeetCode-Java
@@ -32,27 +33,45 @@ LeetCode-Java
 
 ## ✅ Problems Solved
 
-| Problem No. | Problem Name | Topic | Difficulty |
-|-------------|--------------|-------|------------|
+| # | Problem | Topic | Difficulty |
+|---|---------|-------|------------|
 | 1 | Two Sum | Arrays | Easy |
+| 121 | Best Time to Buy and Sell Stock | Arrays | Easy |
+| 217 | Contains Duplicate | Arrays | Easy |
 | 242 | Valid Anagram | Strings | Easy |
 | 412 | Fizz Buzz | Math | Easy |
 
-**Total Problems Solved:** 3
+**Total Problems Solved:** **5**
 
-## 💡 Learning Strategy
+## 📊 Progress
 
-- Solve problems daily
-- Write clean and optimized Java code
-- Organize solutions topic-wise
-- Maintain consistency with GitHub commits
+| Difficulty | Count |
+|------------|------:|
+| . Easy | 5 |
+| . Medium | 0 |
+| . Hard | 0 |
 
-## 🚀 Progress
+## 🚀 Learning Strategy
 
-- Easy: 3
-- Medium: 0
-- Hard: 0
+- Solve LeetCode problems consistently.
+- Organize solutions topic-wise.
+- Focus on writing clean, readable, and optimized code.
+- Update this repository regularly with new solutions.
+
+## ⭐ Future Topics
+
+- Arrays
+- Strings
+- HashMap
+- Two Pointers
+- Linked List
+- Stack & Queue
+- Trees
+- Graphs
+- Dynamic Programming
+- Greedy Algorithms
+- Backtracking
 
 ---
 
-⭐ Thanks for visiting my repository!
+⭐ *Consistency is more important than speed. One problem solved every day is better than solving many at once and stopping.*
