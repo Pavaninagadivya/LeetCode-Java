@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode Java Solutions repository!
 
-This repository contains my accepted Java solutions to LeetCode problems. I solve problems consistently to improve my Data Structures & Algorithms skills, strengthen problem-solving abilities, and prepare for software engineering placements.
+This repository contains my accepted Java solutions to LeetCode problems. I solve problems consistently to improve my Data Structures & Algorithms (DSA) skills, strengthen problem-solving abilities, and prepare for software engineering placements.
 
 ## 👨‍💻 Language
 
@@ -10,11 +10,11 @@ This repository contains my accepted Java solutions to LeetCode problems. I solv
 
 ## 🎯 Goals
 
-- Solve 200+ LeetCode problems
-- Improve DSA and problem-solving skills
-- Prepare for coding interviews and placements
-- Write clean and optimized Java solutions
-- Maintain consistency through daily practice
+- Solve 100+ LeetCode problems
+- Strengthen DSA concepts
+- Improve coding interview skills
+- Write clean and optimized Java code
+- Maintain daily GitHub contributions
 
 ## 📁 Repository Structure
 
@@ -36,36 +36,44 @@ LeetCode-Java
 | # | Problem | Topic | Difficulty |
 |---|---------|-------|------------|
 | 1 | Two Sum | Arrays | Easy |
+| 26 | Remove Duplicates from Sorted Array | Arrays | Easy |
 | 121 | Best Time to Buy and Sell Stock | Arrays | Easy |
 | 217 | Contains Duplicate | Arrays | Easy |
 | 242 | Valid Anagram | Strings | Easy |
 | 412 | Fizz Buzz | Math | Easy |
+| 1470 | Shuffle the Array | Arrays | Easy |
 
-**Total Problems Solved:** **5**
+**Total Problems Solved:** **7**
 
 ## 📊 Progress
 
 | Difficulty | Count |
 |------------|------:|
-| . Easy | 5 |
-| . Medium | 0 |
-| . Hard | 0 |
+| 🟢 Easy | 7 |
+| 🟡 Medium | 0 |
+| 🔴 Hard | 0 |
 
 ## 🚀 Learning Strategy
 
 - Solve LeetCode problems consistently.
 - Organize solutions topic-wise.
-- Focus on writing clean, readable, and optimized code.
-- Update this repository regularly with new solutions.
+- Focus on writing clean and optimized Java code.
+- Update this repository regularly.
+- Learn multiple approaches whenever possible.
 
-## ⭐ Future Topics
+## 📚 Topics Covered
 
 - Arrays
 - Strings
+- Math
+
+## 🎯 Upcoming Topics
+
 - HashMap
 - Two Pointers
 - Linked List
-- Stack & Queue
+- Stack
+- Queue
 - Trees
 - Graphs
 - Dynamic Programming
@@ -74,4 +82,4 @@ LeetCode-Java
 
 ---
 
-⭐ *Consistency is more important than speed. One problem solved every day is better than solving many at once and stopping.*
+⭐ **Consistency beats intensity. Solving one problem every day builds strong problem-solving skills over time.**
