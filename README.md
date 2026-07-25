@@ -2,25 +2,19 @@
 
 Welcome to my LeetCode Java Solutions repository!
 
-This repository contains my accepted Java solutions to LeetCode problems. I solve problems consistently to improve my Data Structures & Algorithms (DSA) skills and prepare for coding interviews and software engineering placements.
-
----
+This repository contains my accepted Java solutions to LeetCode problems. I am solving problems consistently to improve my Data Structures & Algorithms (DSA) skills and prepare for software engineering placements.
 
 ## 👨‍💻 Language
 
 - Java
 
----
-
 ## 🎯 Goals
 
 - Solve 100+ LeetCode problems
 - Strengthen DSA concepts
-- Improve coding interview skills
-- Write clean and optimized Java code
+- Improve problem-solving skills
+- Prepare for coding interviews
 - Maintain consistent GitHub contributions
-
----
 
 ## 📁 Repository Structure
 
@@ -37,35 +31,29 @@ LeetCode-Java
 └── README.md
 ```
 
----
-
 ## ✅ Problems Solved
 
 | # | Problem | Topic | Difficulty |
 |---|---------|-------|------------|
 | 1 | Two Sum | Arrays | Easy |
+| 9 | Palindrome Number | Math | Easy |
 | 26 | Remove Duplicates from Sorted Array | Arrays | Easy |
 | 121 | Best Time to Buy and Sell Stock | Arrays | Easy |
 | 217 | Contains Duplicate | Arrays | Easy |
 | 242 | Valid Anagram | Strings | Easy |
-| 344 | Reverse String | Strings | Easy |
+| 283 | Move Zeroes | Arrays | Easy |
 | 412 | Fizz Buzz | Math | Easy |
-| 771 | Jewels and Stones | Strings | Easy |
 | 1470 | Shuffle the Array | Arrays | Easy |
 
-**📌 Total Problems Solved:** **9**
-
----
+**Total Problems Solved:** **9**
 
 ## 📊 Progress
 
-| Difficulty | Solved |
-|------------|:------:|
+| Difficulty | Count |
+|------------|------:|
 | 🟢 Easy | 9 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-
----
 
 ## 📚 Topics Covered
 
@@ -73,13 +61,18 @@ LeetCode-Java
 - Strings
 - Math
 
----
+## 🚀 Learning Strategy
+
+- Solve at least one LeetCode problem every day.
+- Write clean and optimized Java solutions.
+- Organize solutions by topic.
+- Continuously improve problem-solving skills.
+- Track progress through GitHub commits.
 
 ## 🎯 Upcoming Topics
 
 - HashMap
 - Two Pointers
-- Binary Search
 - Linked List
 - Stack
 - Queue
@@ -91,14 +84,4 @@ LeetCode-Java
 
 ---
 
-## 🚀 Learning Strategy
-
-- Solve LeetCode problems consistently.
-- Organize solutions topic-wise.
-- Focus on writing clean and optimized Java code.
-- Update this repository regularly.
-- Learn multiple approaches whenever possible.
-
----
-
-⭐ *"Consistency is the key to mastering Data Structures & Algorithms."*
+⭐ **"Consistency is the key to mastering Data Structures and Algorithms."**
