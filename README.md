@@ -1,26 +1,12 @@
 # LeetCode Java Solutions 🚀
 
-Welcome to my **LeetCode Java Solutions** repository!
+Welcome to my LeetCode Java Solutions repository.
 
-This repository contains my accepted Java solutions to LeetCode problems. I solve problems consistently to improve my Data Structures & Algorithms (DSA) skills, strengthen problem-solving abilities, and prepare for software engineering placements.
+This repository contains my Java solutions to LeetCode problems. I solve problems regularly to improve my Data Structures and Algorithms (DSA) skills and prepare for coding interviews.
 
----
-
-## 👨‍💻 Language
+## 💻 Language
 
 - Java
-
----
-
-## 🎯 Goals
-
-- Solve 100+ LeetCode problems
-- Strengthen Data Structures & Algorithms
-- Improve coding interview skills
-- Write clean and optimized Java code
-- Maintain consistent GitHub contributions
-
----
 
 ## 📂 Repository Structure
 
@@ -36,11 +22,8 @@ LeetCode-Java
 ├── Stack
 ├── Queue
 ├── Trees
-├── Graphs
 └── README.md
 ```
-
----
 
 ## ✅ Problems Solved
 
@@ -58,50 +41,31 @@ LeetCode-Java
 | 344 | Reverse String | Easy |
 | 412 | Fizz Buzz | Easy |
 | 771 | Jewels and Stones | Easy |
+| 1281 | Subtract the Product and Sum of Digits of an Integer | Easy |
 | 1470 | Shuffle the Array | Easy |
-
----
+| 2293 | Min Max Game | Easy |
 
 ## 📊 Progress
 
-| Difficulty | Solved |
-|------------|-------:|
-| 🟢 Easy | 13 |
-| 🟡 Medium | 0 |
-| 🔴 Hard | 0 |
+- **Total Problems Solved:** 15
+- **Easy:** 15
+- **Medium:** 0
+- **Hard:** 0
 
-**Total Problems Solved:** **13 / 200**
-
----
-
-## 📚 Topics Covered
+## 🎯 Topics Covered
 
 - Arrays
 - Strings
 - Math
 - Two Pointers
 
----
+## 🚀 Goal
 
-## 🚀 Learning Strategy
-
-- Solve at least one LeetCode problem every day.
-- Write clean and optimized Java solutions.
-- Organize solutions topic-wise.
-- Maintain consistent GitHub commits.
-- Learn better approaches by reviewing previous solutions.
+- Solve LeetCode problems consistently
+- Improve problem-solving skills
+- Write clean and optimized Java code
+- Prepare for coding interviews
 
 ---
 
-## 🎯 Milestones
-
-- ✅ 10 Problems Solved
-- ⏳ 25 Problems
-- ⏳ 50 Problems
-- ⏳ 100 Problems
-
----
-
-## ⭐ Quote
-
-> *"Consistency beats intensity. One problem solved every day builds strong problem-solving skills over time."*
+⭐ *Thank you for visiting my repository!*
