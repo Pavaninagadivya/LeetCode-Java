@@ -1,22 +1,28 @@
 # LeetCode Java Solutions 🚀
 
-Welcome to my LeetCode Java Solutions repository!
+Welcome to my **LeetCode Java Solutions** repository!
 
-This repository contains my accepted Java solutions to LeetCode problems. I am solving problems consistently to improve my Data Structures & Algorithms (DSA) skills and prepare for software engineering placements.
+This repository contains my accepted Java solutions to LeetCode problems. I solve problems consistently to improve my Data Structures & Algorithms (DSA) skills, strengthen problem-solving abilities, and prepare for software engineering placements.
+
+---
 
 ## 👨‍💻 Language
 
 - Java
 
+---
+
 ## 🎯 Goals
 
 - Solve 100+ LeetCode problems
-- Strengthen DSA concepts
-- Improve problem-solving skills
-- Prepare for coding interviews
+- Strengthen Data Structures & Algorithms
+- Improve coding interview skills
+- Write clean and optimized Java code
 - Maintain consistent GitHub contributions
 
-## 📁 Repository Structure
+---
+
+## 📂 Repository Structure
 
 ```
 LeetCode-Java
@@ -27,61 +33,75 @@ LeetCode-Java
 ├── HashMap
 ├── TwoPointers
 ├── LinkedList
+├── Stack
+├── Queue
 ├── Trees
+├── Graphs
 └── README.md
 ```
 
+---
+
 ## ✅ Problems Solved
 
-| # | Problem | Topic | Difficulty |
-|---|---------|-------|------------|
-| 1 | Two Sum | Arrays | Easy |
-| 9 | Palindrome Number | Math | Easy |
-| 26 | Remove Duplicates from Sorted Array | Arrays | Easy |
-| 121 | Best Time to Buy and Sell Stock | Arrays | Easy |
-| 217 | Contains Duplicate | Arrays | Easy |
-| 242 | Valid Anagram | Strings | Easy |
-| 283 | Move Zeroes | Arrays | Easy |
-| 412 | Fizz Buzz | Math | Easy |
-| 1470 | Shuffle the Array | Arrays | Easy |
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 1 | Two Sum | Easy |
+| 9 | Palindrome Number | Easy |
+| 26 | Remove Duplicates from Sorted Array | Easy |
+| 58 | Length of Last Word | Easy |
+| 121 | Best Time to Buy and Sell Stock | Easy |
+| 125 | Valid Palindrome | Easy |
+| 217 | Contains Duplicate | Easy |
+| 242 | Valid Anagram | Easy |
+| 283 | Move Zeroes | Easy |
+| 344 | Reverse String | Easy |
+| 412 | Fizz Buzz | Easy |
+| 771 | Jewels and Stones | Easy |
+| 1470 | Shuffle the Array | Easy |
 
-**Total Problems Solved:** **9**
+---
 
 ## 📊 Progress
 
-| Difficulty | Count |
-|------------|------:|
-| 🟢 Easy | 9 |
+| Difficulty | Solved |
+|------------|-------:|
+| 🟢 Easy | 13 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
+
+**Total Problems Solved:** **13 / 200**
+
+---
 
 ## 📚 Topics Covered
 
 - Arrays
 - Strings
 - Math
+- Two Pointers
+
+---
 
 ## 🚀 Learning Strategy
 
 - Solve at least one LeetCode problem every day.
 - Write clean and optimized Java solutions.
-- Organize solutions by topic.
-- Continuously improve problem-solving skills.
-- Track progress through GitHub commits.
-
-## 🎯 Upcoming Topics
-
-- HashMap
-- Two Pointers
-- Linked List
-- Stack
-- Queue
-- Trees
-- Graphs
-- Dynamic Programming
-- Greedy Algorithms
-- Backtracking
+- Organize solutions topic-wise.
+- Maintain consistent GitHub commits.
+- Learn better approaches by reviewing previous solutions.
 
 ---
 
-⭐ **"Consistency is the key to mastering Data Structures and Algorithms."**
+## 🎯 Milestones
+
+- ✅ 10 Problems Solved
+- ⏳ 25 Problems
+- ⏳ 50 Problems
+- ⏳ 100 Problems
+
+---
+
+## ⭐ Quote
+
+> *"Consistency beats intensity. One problem solved every day builds strong problem-solving skills over time."*
