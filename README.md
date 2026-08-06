@@ -32,6 +32,7 @@ LeetCode-Java
 | 1 | Two Sum | Easy |
 | 9 | Palindrome Number | Easy |
 | 26 | Remove Duplicates from Sorted Array | Easy |
+| 27 | Remove Element | Easy |
 | 53 | Maximum Subarray | Medium |
 | 58 | Length of Last Word | Easy |
 | 121 | Best Time to Buy and Sell Stock | Easy |
@@ -49,8 +50,8 @@ LeetCode-Java
 
 ## 📊 Progress
 
-- **Total Problems Solved:** 17
-- **Easy:** 15
+- **Total Problems Solved:** 18
+- **Easy:** 16
 - **Medium:** 2
 - **Hard:** 0
 
