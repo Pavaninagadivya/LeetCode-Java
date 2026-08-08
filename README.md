@@ -47,11 +47,12 @@ LeetCode-Java
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy |
 | 1470 | Shuffle the Array | Easy |
 | 2293 | Min Max Game | Easy |
+| 88   | Merge Sorted Array| Easy |
 
 ## 📊 Progress
 
-- **Total Problems Solved:** 18
-- **Easy:** 16
+- **Total Problems Solved:** 19
+- **Easy:** 17
 - **Medium:** 2
 - **Hard:** 0
 
