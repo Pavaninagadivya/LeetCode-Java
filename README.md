@@ -48,11 +48,12 @@ LeetCode-Java
 | 1470 | Shuffle the Array | Easy |
 | 2293 | Min Max Game | Easy |
 | 88   | Merge Sorted Array| Easy |
+| 66   | Plus One        |Easy|
 
 ## 📊 Progress
 
-- **Total Problems Solved:** 19
-- **Easy:** 17
+- **Total Problems Solved:** 20
+- **Easy:** 18
 - **Medium:** 2
 - **Hard:** 0
 
@@ -61,7 +62,6 @@ LeetCode-Java
 - Arrays
 - Strings
 - Math
-- Two Pointers
 
 ## 🚀 Goal
 
