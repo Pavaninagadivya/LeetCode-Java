@@ -49,7 +49,7 @@ LeetCode-Java
 | 2293 | Min Max Game | Easy |
 | 88   | Merge Sorted Array| Easy |
 | 66   | Plus One        |Easy|
-| 14   | LOngest Common Prefix|Easy|
+| 14   | Longest Common Prefix|Easy|
 
 ## 📊 Progress
 
