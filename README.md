@@ -50,11 +50,12 @@ LeetCode-Java
 | 88   | Merge Sorted Array| Easy |
 | 66   | Plus One        |Easy|
 | 14   | Longest Common Prefix|Easy|
+| 28  | Find the Index of the First Occurrence in a String| Easy|
 
 ## 📊 Progress
 
-- **Total Problems Solved:** 21
-- **Easy:** 19
+- **Total Problems Solved:** 22
+- **Easy:** 20
 - **Medium:** 2
 - **Hard:** 0
 
