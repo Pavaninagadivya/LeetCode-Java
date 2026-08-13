@@ -51,11 +51,12 @@ LeetCode-Java
 | 66   | Plus One        |Easy|
 | 14   | Longest Common Prefix|Easy|
 | 28  | Find the Index of the First Occurrence in a String| Easy|
+| 169 | Majority Element              |Easy|
 
 ## 📊 Progress
 
-- **Total Problems Solved:** 22
-- **Easy:** 20
+- **Total Problems Solved:** 23
+- **Easy:** 21
 - **Medium:** 2
 - **Hard:** 0
 
