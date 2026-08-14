@@ -52,11 +52,12 @@ LeetCode-Java
 | 14   | Longest Common Prefix|Easy|
 | 28  | Find the Index of the First Occurrence in a String| Easy|
 | 169 | Majority Element              |Easy|
+| 349 | Intersection Of Two Arrays   | Easy|
 
 ## 📊 Progress
 
-- **Total Problems Solved:** 23
-- **Easy:** 21
+- **Total Problems Solved:** 24
+- **Easy:** 22
 - **Medium:** 2
 - **Hard:** 0
 
