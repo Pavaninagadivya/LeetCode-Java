@@ -53,11 +53,11 @@ LeetCode-Java
 | 28  | Find the Index of the First Occurrence in a String| Easy|
 | 169 | Majority Element              |Easy|
 | 349 | Intersection Of Two Arrays   | Easy|
-
+| 136 | Single Number           |Easy|
 ## 📊 Progress
 
-- **Total Problems Solved:** 24
-- **Easy:** 22
+- **Total Problems Solved:** 25
+- **Easy:** 23
 - **Medium:** 2
 - **Hard:** 0
 
